@@ -1,0 +1,57 @@
+*
+{
+	margin: :0px;
+	padding: 0px;
+}
+div {
+	position: absolute;
+}
+.container {
+	width: 900px;
+	height: 500px;
+	border: 1px solid #8CB27C;
+	background-color:#8CB27C;
+	margin: 10px 0px;
+}
+.container .cuadrado1 {
+	width: 800px;
+	height: 400px;
+	border: 1px solid white;
+	left:5%;
+   bottom:9%;
+}
+.container .cuadrado2 {
+	width: 120px;
+	height: 200px;
+	border: 1px solid white;
+	left:5%;
+   bottom:30%;
+}
+.container .cuadrado3 {
+	width: 120px;
+	height: 200px;
+	border: 1px solid white;
+	left:80.5%;
+   bottom:30%;
+}
+.container .cuadrado4 {
+	width: 200px;
+	height: 200px;
+	border-radius:50%;
+	border: 1px solid white;
+	left:40.5%;
+   bottom:30%;
+
+}
+.pelota1 {
+left:17%;
+bottom:63%;
+}
+.pelota2 {
+	left:53%;
+	bottom:77%;
+}
+.pelota3 {
+	left:77.5%;
+	bottom: 30%;
+}
